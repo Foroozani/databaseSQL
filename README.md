@@ -1,4 +1,4 @@
-# SQL
+# SQL tools
 
 Install version 12 of `postgresql` along with `pgAdmin4` 
 
