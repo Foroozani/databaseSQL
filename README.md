@@ -1,6 +1,8 @@
 # SQL tools
 
-Install version 12 of `postgresql` along with `pgAdmin4` 
+Install version 12 of `postgresql` along with `pgAdmin4`. PostgreSQL is an advanced object-relational database management system
+that supports an extended subset of the SQL standard, including transactions, foreign keys, subqueries, triggers, user-defined types
+and functions
 
 ```bash 
 sudo sh -c 'echo "deb http://apt.postgresql.org/pub/repos/apt $(lsb_release -cs)-pgdg main" > /etc/apt/sources.list.d/pgdg.list'
