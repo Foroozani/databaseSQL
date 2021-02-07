@@ -1,5 +1,5 @@
 -------------------------------
--- Example Query ---
+-- Query on a data---
 -------------------------------
 -- SELECT DISTINCT (rental_rate, release_year) FROM film;
 -- SELECT * FROM film; 
