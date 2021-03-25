@@ -2,7 +2,6 @@ DROP DATABASE IF EXISTS `sql_hr`;
 CREATE DATABASE `sql_hr`;
 USE `sql_hr`;
 
-
 CREATE TABLE `offices` (
   `office_id` int(11) NOT NULL,
   `address` varchar(50) NOT NULL,
@@ -20,8 +19,6 @@ INSERT INTO `offices` VALUES (7,'9658 Wayridge Court','Boise','ID');
 INSERT INTO `offices` VALUES (8,'9 Grayhawk Trail','New York City','NY');
 INSERT INTO `offices` VALUES (9,'16862 Westend Hill','Knoxville','TN');
 INSERT INTO `offices` VALUES (10,'4 Bluestem Parkway','Savannah','GA');
-
-
 
 CREATE TABLE `employees` (
   `employee_id` int(11) NOT NULL,
