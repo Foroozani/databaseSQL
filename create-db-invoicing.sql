@@ -1,6 +1,6 @@
+USE `invoicing`; -- to select the database
 DROP DATABASE IF EXISTS `invoicing`;
 CREATE DATABASE `invoicing`; 
-USE `invoicing`;
 
 SET NAMES utf8 ;
 SET character_set_client = utf8mb4 ;
